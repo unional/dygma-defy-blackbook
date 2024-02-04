@@ -1,0 +1,9 @@
+{
+	"recommendations": [
+		"davidanson.vscode-markdownlint",
+		"editorconfig.editorconfig",
+		"neo-ltex.ltex",
+		"streetsidesoftware.code-spell-checker",
+		"yzhang.markdown-all-in-one",
+	]
+}
