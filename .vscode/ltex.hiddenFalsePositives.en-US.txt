@@ -1,0 +1,4 @@
+{"rule":"WHITESPACE_RULE","sentence":"^\\QLeft       Right\\E$"}
+{"rule":"WHITESPACE_RULE","sentence":"^\\QR1 R12 R13 R14 R15\nR1   R23 R24 R25\\E$"}
+{"rule":"WHITESPACE_RULE","sentence":"^\\QL15 L14 L13 L12 L1\nL25 L24 L23   L1\\E$"}
+{"rule":"MAC_OS","sentence":"^\\QWindows/Linux: \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q\nMacOS: \\E(?:Dummy|Ina|Jimmy-)[0-9]+$"}
