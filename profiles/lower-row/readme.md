@@ -1,16 +1,16 @@
-# Bottom row mod profile
+# Lower row mod profile
 
-This profile is a [colemak-dh] layout with a `GASCG` bottom-row-mod.
+This profile is a [colemak-dh] layout with a `GASCG` lower-row-mod.
 
-I'm using this bottom-row-mod instead of home-row-mod because currently the dual-function keys and superkeys are too easy to misfire with the current firmware.
+I'm using this lower-row-mod instead of home-row-mod because currently the dual-function keys and superkeys are too easy to misfire with the current firmware.
 
-While putting the modifier keys to the bottom row is not as convenient and comfortable compare to the home row,
+While putting the modifier keys to the lower row is not as convenient and comfortable compare to the home row,
 it also has several advantages:
 
-- The keys in the bottom row are less frequently used, thus the chance of accidentally triggering the mod are lower.
-- The keys in the bottom row are less likely to be used consecutively (unlike, for example, `-ion` in the home row), also reducing the chance of accidentally triggering the mod.
-- The keys in the bottom row requires moving the fingers away from the home row, thus the keystroke tends to be shorter and also make it less likely to trigger the mod.
-- Compare to the top row (it's really the second row on Defy, but you get my point), holding the mod and pressing the keys on the top row using the same hand is easier than holding the mod on the top row and pressing the keys on the bottom row. This make it easier to manage with a single hand while using the mouse.
+- The keys in the lower row are less frequently used, thus the chance of accidentally triggering the mod are lower.
+- The keys in the lower row are less likely to be used consecutively (unlike, for example, `-ion` in the home row), also reducing the chance of accidentally triggering the mod.
+- The keys in the lower row requires moving the fingers away from the home row, thus the keystroke tends to be shorter and also make it less likely to trigger the mod.
+- Compare to the top row (it's really the second row on Defy, but you get my point), holding the mod and pressing the keys on the top row using the same hand is easier than holding the mod on the top row and pressing the keys on the lower row. This make it easier to manage with a single hand while using the mouse.
 
 The `GASCG` mod configuration is experimental.
 I use both a Mac and Windows (and Linux with WSL).
