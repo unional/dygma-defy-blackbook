@@ -20,7 +20,8 @@ or when performing undo (`cmd+z`).
 
 As for `GASC` vs `GACS`,
 one extra benefits I have found with [colemak-dh] layout is that I can do `ctrl+s` and `ctrl+c` only with my left hand.
-For `ctrl+d` with only left hand, I can do that with the thumb key `L15`.
+For `ctrl+d` with only left hand, I can do that with the thumb key `L15`,
+or the `super z`, which served as `G: OS` when hold, and `Ctrl` when tap+hold.
 
 ## Layer 1 - colemak-dh
 
@@ -37,6 +38,8 @@ but currently (as of firmware 1.2.5-beta) there are some limitation preventing t
 ### Layer 1 Main Area
 
 The first row (`ESC-1...5` and `6...0-BACKSPACE`) are for convenience and familiarity.
+The `super 3`, `super 4`, take screenshots when tap+hold and 2tap+hold,
+while `super 5` opens a split terminal in vscode.
 
 The `TAB` in the second row is also for familiarity, but it is seldom used.
 It might be removed or reassigned in the future.
@@ -88,7 +91,9 @@ and `LOCK 5` is a tap layout without mods.
 ![Layer 2 - Numbers](layer-2.png)
 
 This is the numbers layer but can also act as navigation layer with the num pad and num lock.
-The bottom row has the same `GASCG` mod.
+The bottom row has the same `GASCG` mod on the right side.
+The left side does not have mod because there is no usage for that,
+and using simple keys make it more responsive.
 
 ### Layer 2 Main Area
 
@@ -137,6 +142,10 @@ Right side captures the navigation and mouse keys.
 ## Layer 4 - functions
 
 ![Layer 4 - functions](layer-4.png)
+
+## Keyboard Preferences
+
+![Preferences](preferences.png)
 
 [colemak-dh]: https://colemakmods.github.io/mod-dh/
 [rm-superkey]: ../../superkeys/readme.md#rm-superkey
