@@ -1,5 +1,10 @@
 # Dygma Defy Blackbook
 
+[![Dygma discord invite link](https://dcbadge.vercel.app/api/server/XpMEtRGH5P)](https://discord.gg/XpMEtRGH5P)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/r/DygmaLab/)
+
+![Dygma Defy](./profiles/lower-row/layer-1.png)
+
 This blackbook (assuming you are reading it in dark mode 🕶️) includes everything I gather online and also my personal experience and opinion about the [Dygma Defy][defy].
 
 You will find the details about it, the good, bad, and ugly of it,
