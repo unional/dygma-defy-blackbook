@@ -35,13 +35,19 @@ It describes the force act on your finger by the switch at the moment it is acti
 
 ## Buttom-out Force
 
+Sometimes also referred as `Operating Force` on linear switch.
+
 ## Return Force
 
 ## Tactile Travel
 
 ## Actuation Travel
 
+Sometime also referred as `Pre-travel` on linear switch.
+
 ## Buttom-out Travel
+
+Also known as `Total travel`.
 
 ## Wobble Tolerance
 
