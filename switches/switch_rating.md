@@ -23,20 +23,25 @@ so that we can compare them based on their pros and cons. For example:
 
 I think we can do something similar with keyboard switches:
 
-| Total Ratings (1)  | Type    | Force | Speed | Travel | Smoothness | Stability | Crispness | Quietness | Thockiness | Clackiness | Poppiness | RGB | Consistency | Overall |
-| ------------------ | ------- | ----- | ----- | ------ | ---------- | --------- | --------- | --------- | ---------- | ---------- | --------- | --- | ----------- | ------- |
-| Kailh Silent Brown | Tactile | 7.0   | 5.0   | 7.0    | 7.0        | 8.0       | 7.0       | 7.0       | 6.0        | 7.0        | 5.0       | 9.0 | (not rated) | 8.0     |
+| Total Ratings (1)  | Clarity | Force | Speed | Quietness | Travel | Smoothness | Stability | Crispness | Thockiness | Clackiness | Poppiness | RGB | Consistency | Overall |
+| ------------------ | ------- | ----- | ----- | --------- | ------ | ---------- | --------- | --------- | ---------- | ---------- | --------- | --- | ----------- | ------- |
+| Kailh Silent Brown | 6.0     | 7.0   | 5.0   | 7.0       | 7.0    | 7.0        | 8.0       | 7.0       | 6.0        | 7.0        | 5.0       | 9.0 | (not rated) | 8.0     |
 
-Every rating is on a scale of 0 to 10.
+Every category has a score of 0 to 10.
 
-## Type
+## Clarity
 
-This is the type of the switch: Linear, Tactile, or Clicky.
+`Clarity` describes how clearly can you feel the key is triggered.
 
-Silent is not considered as a type,
-because there are many ways to make a switch silence.
-What's important is how [quiet](#quietness) the switch is.
-Some switch are not categorized as silent but they are quiet.
+Linear switches typically scores near zero in this category.
+
+Tactile and clicky switches have various scores in this category based on how profound the tactile bump feels.
+
+Switches with a high tactile force does not necessary translates to higher scores.
+
+The most important factor that would affect the `clarity` rating is the shape of the tactile bump.
+
+The steeper the bump is, especially the drop after the bump peak, the more likely it will generate a cleaner feel of the key press.
 
 ## Force
 
@@ -57,6 +62,18 @@ This is determined by 2 factors:
   For linear switches, this is the actuation force.\
   For tactile or clicky switches, this is typically the tactile force.\
   Lower activation force means it is faster.
+
+The actuation travel distance can range from 1 to 3mm.
+The activation force can range from 20gf to 100gf
+
+## Quietness
+
+`Quietness` measures how quiet the switch is.
+
+Silent switches tends to be more quiet.
+The same goes for linear switches.
+
+Obviously, clicky switch is the loudness thus scores lowest in this criteria.
 
 ## Travel
 
@@ -93,10 +110,6 @@ which could make the switch feels mushy.
 
 There could be other factor like the spring material,
 the alternative stem material etc.
-
-## Quietness
-
-`Quietness` measures how quiet the switch is (duh).
 
 ## Thockiness
 
