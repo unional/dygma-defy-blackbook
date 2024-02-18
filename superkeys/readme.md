@@ -1,5 +1,9 @@
 # Superkeys
 
+The [profiles](../profiles/readme.md) utilizes some [superkeys].
+
+They typically follow certain forms, and you can learn more about them here.
+
 ## RM superkey
 
 ![RM superkey](rm-superkey.png)
@@ -26,3 +30,5 @@ RSL stands for Repeatable layer Shift Lock.
 
 This superkey can be press and repeated similar to regular keys,
 while supporting shift and lock to a layer.
+
+[superkeys]: https://dygma.com/blogs/product-development/new-bazecor-software
