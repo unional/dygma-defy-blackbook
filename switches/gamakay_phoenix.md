@@ -31,7 +31,7 @@ your review here...
 - [Shifty Keys: WAY QUIETER Than Standard Switches! – Gamakay Pegasus, Griffin & Phoenix Switches!](https://www.youtube.com/watch?v=_8fYZEy51BE)
 - [The Portly Gamer: I was WRONG about these switches (emotional) - Gamakay Switches](https://www.youtube.com/watch?v=g5LKkcqNXeo&t=431s)
 
-## Prices
+## Where to buy
 
 | Link                                                                                                                                                                                                                 | Price     | Unit Price | Status   | Date      |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ---------- | -------- | --------- |

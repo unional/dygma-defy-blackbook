@@ -31,7 +31,7 @@ The Cherry MX Red is a solid linear switch.
 It is not very smooth and even a bit scratchy.
 But the 45gf actuation force feel very nice on my finger.
 
-## Prices
+## Where to buy
 
 | Link                                                                                               | Price           | Unit Price | Status   | Date      |
 | -------------------------------------------------------------------------------------------------- | --------------- | ---------- | -------- | --------- |

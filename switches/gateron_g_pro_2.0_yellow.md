@@ -32,7 +32,7 @@ The spring feels stiff and the switch feels bouncy.
 Comparing to [Cherry MX Red], Gateron G Pro 2.0 Yellow is smoother but I perfer [Cherry MX Red] a bit more as it is lighter.
 Since it is a linear switch, I got more misfires when using it on the thumb cluster.
 
-## Prices
+## Where to buy
 
 | Link                                                                                               | Price           | Unit Price | Status   | Date      |
 | -------------------------------------------------------------------------------------------------- | --------------- | ---------- | -------- | --------- |

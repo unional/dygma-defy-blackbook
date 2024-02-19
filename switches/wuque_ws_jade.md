@@ -30,7 +30,7 @@
 
 - [GantioKeys: BETTER than Morandi Switch? | Impressions on WS Jade](https://www.youtube.com/watch?v=DcVLdNYeme0)
 
-## Prices
+## Where to buy
 
 | Link                                                                   | Price     | Unit Price | Status   | Date      |
 | ---------------------------------------------------------------------- | --------- | ---------- | -------- | --------- |

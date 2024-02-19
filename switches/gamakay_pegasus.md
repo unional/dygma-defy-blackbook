@@ -30,7 +30,7 @@ your review here...
 - [Boot Sequence: The QUIETEST TACTILE Keyboard Switches I've EVER HEARD! - GamaKay Switches](https://www.youtube.com/watch?v=fKrWIPkiPic)
 - [Shifty Keys: WAY QUIETER Than Standard Switches! – Gamakay Pegasus, Griffin & Phoenix Switches!](https://www.youtube.com/watch?v=_8fYZEy51BE)
 
-## Prices
+## Where to buy
 
 | Link                                                                                                                                                                                                                 | Price     | Unit Price | Status   | Date      |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ---------- | -------- | --------- |

@@ -29,7 +29,7 @@
 First Reviewer (YYYY/mm/dd):
 your review here...
 
-## Prices
+## Where to buy
 
 | Link                                                                                             | Price           | Unit Price | Status   | Date      |
 | ------------------------------------------------------------------------------------------------ | --------------- | ---------- | -------- | --------- |
