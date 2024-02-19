@@ -26,6 +26,12 @@
 
 ## Reviews
 
+unional (2024/2/17):
+The Gateron G Pro 2.0 Yellow feels very smooth and crisp.
+The spring feels stiff and the switch feels bouncy.
+Comparing to [Cherry MX Red], Gateron G Pro 2.0 Yellow is smoother but I perfer [Cherry MX Red] a bit more as it is lighter.
+Since it is a linear switch, I got more misfires when using it on the thumb cluster.
+
 ## Prices
 
 | Link                                                                                               | Price           | Unit Price | Status   | Date      |
