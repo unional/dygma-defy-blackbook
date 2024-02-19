@@ -27,6 +27,6 @@ Also, I would highly recommend joining the [Dygma Discord](https://discord.com/c
 
 - [profiles](./profiles/readme.md)
 - [superkeys](./superkeys/readme.md)
-- [switches](./switches/readme.md)
+- [switch reviews](./switches/readme.md)
 
 [defy]: https://dygma.com/pages/defy
