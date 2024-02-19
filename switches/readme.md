@@ -25,20 +25,21 @@ and if you have your favorite, feel free to add it to the list.
 
 ## Switches List
 
-| Name                                                       | Clarity | Force | Speed | Quietness | Overall |
-| ---------------------------------------------------------- | ------- | ----- | ----- | --------- | ------- |
-| [Cherry MX Blue](./cherry_mx_blue.md)                      |         |       |       |           |         |
-| [Cherry MX Brown](./cherry_mx_brown.md)                    |         |       |       |           |         |
-| [Cherry MX Red](./cherry_mx_red.md)                        | 0.0     | 4.0   | 5.0   | 4.0       | 7.0     |
-| [Gamakay Pegasus](./gamakay_pegasus.md)                    |         |       |       |           |         |
-| [Gamakay Phoenix](./gamakay_phoenix.md)                    |         |       |       |           |         |
-| [Gateron G Pro 2.0 Yellow+](./gateron_g_pro_2.0_yellow.md) | 0.0     | 5.0   | 5.0   | 5.0       | 8.0     |
-| Gazzew U4                                                  |         |       |       |           |         |
-| [Kailh Silent Brown](./kailh_silent_brown.md)              | 6.0     | 7.0   | 5.0   | 7.0       | 8.0     |
-| [Kailh Silent Pink](./kailh_silent_pink.md)                | 0.0     | 4.0   | 7.0   | 9.0       | 8.0     |
-| [Kailh Speed Bronze](./kailh_speed_bronze.md)              |         |       |       |           |         |
-| [Kailh Speed Copper](./kailh_speed_copper.md)              |         |       |       |           |         |
-| [Kailh Speed Silver](./kailh_speed_silver.md)              |         |       |       |           |         |
-| [Wuque WS Jade](./wuque_ws_jade.md)                        |         |       |       |           |         |
+| Name                                                       | Sharp | Force | Speed | Quiet | Overall |
+| ---------------------------------------------------------- | ----- | ----- | ----- | ----- | ------- |
+| [Cherry MX Blue](./cherry_mx_blue.md)                      |       |       |       |       |         |
+| [Cherry MX Brown](./cherry_mx_brown.md)                    |       |       |       |       |         |
+| [Cherry MX Red](./cherry_mx_red.md)                        | 0.0   | 4.0   | 5.0   | 4.0   | 7.0     |
+| [Everglide Aqua King v3](./everglide_aqua_king_v3.md)      |       |       |       |       |         |
+| [Gamakay Pegasus](./gamakay_pegasus.md)                    |       |       |       |       |         |
+| [Gamakay Phoenix](./gamakay_phoenix.md)                    |       |       |       |       |         |
+| [Gateron G Pro 2.0 Yellow+](./gateron_g_pro_2.0_yellow.md) | 0.0   | 5.0   | 5.0   | 5.0   | 8.0     |
+| [Gazzew U4](./gazzew_u4.md)                                |       |       |       |       |         |
+| [Kailh Silent Brown](./kailh_silent_brown.md)              | 6.0   | 7.0   | 5.0   | 7.0   | 8.0     |
+| [Kailh Silent Pink](./kailh_silent_pink.md)                | 0.0   | 4.0   | 7.0   | 9.0   | 8.0     |
+| [Kailh Speed Bronze](./kailh_speed_bronze.md)              |       |       |       |       |         |
+| [Kailh Speed Copper](./kailh_speed_copper.md)              |       |       |       |       |         |
+| [Kailh Speed Silver](./kailh_speed_silver.md)              |       |       |       |       |         |
+| [Wuque WS Jade](./wuque_ws_jade.md)                        |       |       |       |       |         |
 
 [defy]: https://dygma.com/pages/defy

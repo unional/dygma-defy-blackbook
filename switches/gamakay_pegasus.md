@@ -2,11 +2,11 @@
 
 ![Gamakay Pegasus](https://gamakay.com/cdn/shop/products/MG_9255_1200x.jpg?v=1682414905)
 
-|                             | Clarity | Force | Speed | Quietness | Travel | Smoothness | Stability | Crispness | Thockiness | Clackiness | Poppiness | RGB | Consistency | Overall |
-| --------------------------- | ------- | ----- | ----- | --------- | ------ | ---------- | --------- | --------- | ---------- | ---------- | --------- | --- | ----------- | ------- |
-| average                     |         |       |       |           |        |            |           |           |            |            |           |     |             |         |
-|                             |         |       |       |           |        |            |           |           |            |            |           |     |             |         |
-| First Reviewer (YYYY/mm/dd) |         |       |       |           |        |            |           |           |            |            |           |     |             |         |
+|                             | Sharp | Force | Speed | Quiet | Travel | Smoothness | Stability | Crispness | Thockiness | Clackiness | Poppiness | RGB | Consistency | Overall |
+| --------------------------- | ----- | ----- | ----- | ----- | ------ | ---------- | --------- | --------- | ---------- | ---------- | --------- | --- | ----------- | ------- |
+| average                     |       |       |       |       |        |            |           |           |            |            |           |     |             |         |
+|                             |       |       |       |       |        |            |           |           |            |            |           |     |             |         |
+| First Reviewer (YYYY/mm/dd) |       |       |       |       |        |            |           |           |            |            |           |     |             |         |
 
 ## Specification
 

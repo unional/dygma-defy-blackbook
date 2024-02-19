@@ -2,11 +2,11 @@
 
 ![Gamakay Phoenix](https://gamakay.com/cdn/shop/products/267A0823_1200x.jpg?v=1687102247)
 
-|                             | Clarity | Force | Speed | Quietness | Travel | Smoothness | Stability | Crispness | Thockiness | Clackiness | Poppiness | RGB | Consistency | Overall |
-| --------------------------- | ------- | ----- | ----- | --------- | ------ | ---------- | --------- | --------- | ---------- | ---------- | --------- | --- | ----------- | ------- |
-| average                     |         |       |       |           |        |            |           |           |            |            |           |     |             |         |
-|                             |         |       |       |           |        |            |           |           |            |            |           |     |             |         |
-| First Reviewer (YYYY/mm/dd) |         |       |       |           |        |            |           |           |            |            |           |     |             |         |
+|                             | Sharp | Force | Speed | Quiet | Travel | Smoothness | Stability | Crispness | Thockiness | Clackiness | Poppiness | RGB | Consistency | Overall |
+| --------------------------- | ----- | ----- | ----- | ----- | ------ | ---------- | --------- | --------- | ---------- | ---------- | --------- | --- | ----------- | ------- |
+| average                     |       |       |       |       |        |            |           |           |            |            |           |     |             |         |
+|                             |       |       |       |       |        |            |           |           |            |            |           |     |             |         |
+| First Reviewer (YYYY/mm/dd) |       |       |       |       |        |            |           |           |            |            |           |     |             |         |
 
 ## Specification
 

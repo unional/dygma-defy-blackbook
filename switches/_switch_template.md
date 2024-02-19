@@ -2,25 +2,24 @@
 
 ![Switch Name](image link)
 
-|                             | Clarity | Force | Speed | Quietness | Travel | Smoothness | Stability | Crispness | Thockiness | Clackiness | Poppiness | RGB | Consistency | Overall |
-| --------------------------- | ------- | ----- | ----- | --------- | ------ | ---------- | --------- | --------- | ---------- | ---------- | --------- | --- | ----------- | ------- |
-| average                     |         |       |       |           |        |            |           |           |            |            |           |     |             |         |
-|                             |         |       |       |           |        |            |           |           |            |            |           |     |             |         |
-| First Reviewer (YYYY/mm/dd) |         |       |       |           |        |            |           |           |            |            |           |     |             |         |
+|                             | Sharp | Force | Speed | Quiet | Travel | Smoothness | Stability | Crispness | Thockiness | Clackiness | Poppiness | RGB | Consistency | Overall |
+| --------------------------- | ----- | ----- | ----- | ----- | ------ | ---------- | --------- | --------- | ---------- | ---------- | --------- | --- | ----------- | ------- |
+| average                     |       |       |       |       |        |            |           |           |            |            |           |     |             |         |
+|                             |       |       |       |       |        |            |           |           |            |            |           |     |             |         |
+| First Reviewer (YYYY/mm/dd) |       |       |       |       |        |            |           |           |            |            |           |     |             |         |
 
 ## Specification
 
 |              |     |                   |     |                         |     |
 | ------------ | --- | ----------------- | --- | ----------------------- | --- |
-| Brand        |     | Tactile Force     |     | Top housing material    |     |
-| Manufacturer |     | Actuation Force   |     | Bottom housing material |     |
-|              |     | Buttom-out Force  |     | Stem construction       |     |
-| Type         |     | Return Force      |     | Stem material           |     |
-| Profile      |     | Tactile Travel    |     | Spring type             |     |
-| Mount Type   |     | Actuation Travel  |     | Spring material         |     |
-| Lifecycle    |     | Buttom-out Travel |     | Spring length           |     |
-| Silent       |     | Wobble Tolerance  |     |                         |     |
-| Factor Lube  |     |                   |     |                         |     |
+| Brand        |     | Tactile Force     |     | Mount Type              |     |
+| Manufacturer |     | Actuation Force   |     | Top housing material    |     |
+|              |     | Buttom-out Force  |     | Bottom housing material |     |
+| Type         |     | Return Force      |     | Stem construction       |     |
+| Profile      |     | Tactile Travel    |     | Stem material           |     |
+| Lifecycle    |     | Actuation Travel  |     | Spring type             |     |
+| Silent       |     | Buttom-out Travel |     | Spring material         |     |
+| Factor Lube  |     | Wobble Tolerance  |     | Spring length           |     |
 
 - [Manufacturer Specification](specification link)
 

@@ -2,11 +2,11 @@
 
 ![Kailh Silent Brown](https://dygma.com/cdn/shop/products/KailhSilentBrown.png?v=1667906276)
 
-|                     | Clarity | Force | Speed | Quietness | Travel | Smoothness | Stability | Crispness | Thockiness | Clackiness | Poppiness | RGB | Consistency | Overall |
-| ------------------- | ------- | ----- | ----- | --------- | ------ | ---------- | --------- | --------- | ---------- | ---------- | --------- | --- | ----------- | ------- |
-| average             | 6.0     | 7.0   | 6.0   | 7.0       | 7.0    | 7.0        | 8.0       | 6.0       | 6.0        | 7.0        | 4.0       | 9.0 |             | 8.0     |
-|                     |         |       |       |           |        |            |           |           |            |            |           |     |             |         |
-| unional (2024/2/17) | 6       | 7     | 6     | 7         | 7      | 7          | 8         | 6         | 6          | 7          | 4         | 9   |             | 8       |
+|                     | Sharp | Force | Speed | Quiet | Travel | Smoothness | Stability | Crispness | Thockiness | Clackiness | Poppiness | RGB | Consistency | Overall |
+| ------------------- | ----- | ----- | ----- | ----- | ------ | ---------- | --------- | --------- | ---------- | ---------- | --------- | --- | ----------- | ------- |
+| average             | 6.0   | 7.0   | 6.0   | 7.0   | 7.0    | 7.0        | 8.0       | 6.0       | 6.0        | 7.0        | 4.0       | 9.0 |             | 8.0     |
+|                     |       |       |       |       |        |            |           |           |            |            |           |     |             |         |
+| unional (2024/2/17) | 6     | 7     | 6     | 7     | 7      | 7          | 8         | 6         | 6          | 7          | 4         | 9   |             | 8       |
 
 ## Specification
 

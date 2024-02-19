@@ -23,15 +23,15 @@ so that we can compare them based on their pros and cons. For example:
 
 I think we can do something similar with keyboard switches:
 
-| Total Ratings (1)  | Clarity | Force | Speed | Quietness | Travel | Smoothness | Stability | Crispness | Thockiness | Clackiness | Poppiness | RGB | Consistency | Overall |
+| Total Ratings (1)  | Sharp | Force | Speed | Quiet | Travel | Smoothness | Stability | Crispness | Thockiness | Clackiness | Poppiness | RGB | Consistency | Overall |
 | ------------------ | ------- | ----- | ----- | --------- | ------ | ---------- | --------- | --------- | ---------- | ---------- | --------- | --- | ----------- | ------- |
 | Kailh Silent Brown | 6.0     | 7.0   | 5.0   | 7.0       | 7.0    | 7.0        | 8.0       | 7.0       | 6.0        | 7.0        | 5.0       | 9.0 | (not rated) | 8.0     |
 
 Every category has a score of 0 to 10.
 
-## Clarity
+## Sharp
 
-`Clarity` describes how clearly can you feel the key is triggered.
+`Sharp` describes how clearly can you feel the key is triggered.
 
 Linear switches typically scores near zero in this category.
 
@@ -39,7 +39,7 @@ Tactile and clicky switches have various scores in this category based on how pr
 
 Switches with a high tactile force does not necessary translates to higher scores.
 
-The most important factor that would affect the `clarity` rating is the shape of the tactile bump.
+The most important factor that would affect the `Sharp` rating is the shape of the tactile bump.
 
 The steeper the bump is, especially the drop after the bump peak, the more likely it will generate a cleaner feel of the key press.
 
@@ -66,9 +66,9 @@ This is determined by 2 factors:
 The actuation travel distance can range from 1 to 3mm.
 The activation force can range from 20gf to 100gf
 
-## Quietness
+## Quiet
 
-`Quietness` measures how quiet the switch is.
+`Quiet` measures how quiet the switch is.
 
 Silent switches tends to be more quiet.
 The same goes for linear switches.

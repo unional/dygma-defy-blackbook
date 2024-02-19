@@ -2,11 +2,11 @@
 
 ![Kailh Silent Pink](https://www.switchcaptain.com/cdn/shop/products/kailh-switches-kailh-box-silent-pink-28343448010925_600x.jpg?v=1656113579)
 
-|                     | Clarity | Force | Speed | Quietness | Travel | Smoothness | Stability | Crispness | Thockiness | Clackiness | Poppiness | RGB | Consistency | Overall |
-| ------------------- | ------- | ----- | ----- | --------- | ------ | ---------- | --------- | --------- | ---------- | ---------- | --------- | --- | ----------- | ------- |
-| average             | 0.0     | 4.0   | 7.0   | 9.0       | 7.0    | 8.0        | 8.0       | 4.0       | 7.0        | 4.0        | 3.0       | 9.0 |             | 8.0     |
-|                     |         |       |       |           |        |            |           |           |            |            |           |     |             |         |
-| unional (2024/2/17) | 0       | 4     | 7     | 9         | 7      | 8          | 8         | 4         | 7          | 4          | 3         | 9   |             | 8       |
+|                     | Sharp | Force | Speed | Quiet | Travel | Smoothness | Stability | Crispness | Thockiness | Clackiness | Poppiness | RGB | Consistency | Overall |
+| ------------------- | ----- | ----- | ----- | ----- | ------ | ---------- | --------- | --------- | ---------- | ---------- | --------- | --- | ----------- | ------- |
+| average             | 0.0   | 4.0   | 7.0   | 9.0   | 7.0    | 8.0        | 8.0       | 4.0       | 7.0        | 4.0        | 3.0       | 9.0 |             | 8.0     |
+|                     |       |       |       |       |        |            |           |           |            |            |           |     |             |         |
+| unional (2024/2/17) | 0     | 4     | 7     | 9     | 7      | 8          | 8         | 4         | 7          | 4          | 3         | 9   |             | 8       |
 
 ## Specification
 

@@ -2,11 +2,11 @@
 
 ![Cherry MX Red](https://www.cherry-world.com/media/catalog/product/cache/661c0bae3bb54b88fbb1b415a9d390cb/m/x/mx1a-l1na_sideview4.jpg)
 
-|                     | Clarity | Force | Speed | Quietness | Travel | Smoothness | Stability | Crispness | Thockiness | Clackiness | Poppiness | RGB | Consistency | Overall |
-| ------------------- | ------- | ----- | ----- | --------- | ------ | ---------- | --------- | --------- | ---------- | ---------- | --------- | --- | ----------- | ------- |
-| average             | 0.0     | 4.0   | 5.0   | 4.0       | 10.0   | 6.0        | 6.0       | 8.0       | 6.0        | 5.0        | 6.0       | 9.0 |             | 7.0     |
-|                     |         |       |       |           |        |            |           |           |            |            |           |     |             |         |
-| unional (2024/2/17) | 0       | 4     | 5     | 4         | 10     | 6          | 6         | 8         | 6          | 5          | 6         | 9   |             | 7       |
+|                     | Sharp | Force | Speed | Quiet | Travel | Smoothness | Stability | Crispness | Thockiness | Clackiness | Poppiness | RGB | Consistency | Overall |
+| ------------------- | ----- | ----- | ----- | ----- | ------ | ---------- | --------- | --------- | ---------- | ---------- | --------- | --- | ----------- | ------- |
+| average             | 0.0   | 4.0   | 5.0   | 4.0   | 10.0   | 6.0        | 6.0       | 8.0       | 6.0        | 5.0        | 6.0       | 9.0 |             | 7.0     |
+|                     |       |       |       |       |        |            |           |           |            |            |           |     |             |         |
+| unional (2024/2/17) | 0     | 4     | 5     | 4     | 10     | 6          | 6         | 8         | 6          | 5          | 6         | 9   |             | 7       |
 
 ## Specification
 
@@ -33,6 +33,6 @@ But the 45gf actuation force feel very nice on my finger.
 
 ## Where to buy
 
-| Link                                                                                               | Price           | Unit Price | Status   | Date      |
-| -------------------------------------------------------------------------------------------------- | --------------- | ---------- | -------- | --------- |
+| Link                                                                                             | Price           | Unit Price | Status   | Date      |
+| ------------------------------------------------------------------------------------------------ | --------------- | ---------- | -------- | --------- |
 | [Dygma with 8 Kailh Low Profile Red](https://dygma.com/products/switches?variant=43658510205166) | $69.00/(62 + 8) |            | In stock | 2/18/2024 |

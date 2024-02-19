@@ -2,10 +2,11 @@
 
 ![Wuque WS Jade](https://shop.wuquestudio.com/cdn/shop/files/71619924e76e718e480092587f694926_590x.jpg?v=1701159214)
 
-|         | Clarity | Force | Speed | Quietness | Travel | Smoothness | Stability | Crispness | Thockiness | Clackiness | Poppiness | RGB | Consistency | Overall |
-| ------- | ------- | ----- | ----- | --------- | ------ | ---------- | --------- | --------- | ---------- | ---------- | --------- | --- | ----------- | ------- |
-| average |         |       |       |           |        |            |           |           |            |            |           |     |             |         |
-|         |         |       |       |           |        |            |           |           |            |            |           |     |             |         |
+|         | Sharp | Force | Speed | Quiet | Travel | Smoothness | Stability | Crispness | Thockiness | Clackiness | Poppiness | RGB | Consistency | Overall |
+| ------- | ----- | ----- | ----- | ----- | ------ | ---------- | --------- | --------- | ---------- | ---------- | --------- | --- | ----------- | ------- |
+| average |       |       |       |       |        |            |           |           |            |            |           |     |             |         |
+|         |       |       |       |       |        |            |           |           |            |            |           |     |             |         |
+| First Reviewer (YYYY/mm/dd) |       |       |       |       |        |            |           |           |            |            |           |     |             |         |
 
 ## Specification
 
@@ -27,6 +28,9 @@
 - buttom-out force: 60g
 
 ## Reviews
+
+First Reviewer (YYYY/mm/dd):
+your review here...
 
 - [GantioKeys: BETTER than Morandi Switch? | Impressions on WS Jade](https://www.youtube.com/watch?v=DcVLdNYeme0)
 

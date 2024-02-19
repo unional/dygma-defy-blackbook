@@ -2,11 +2,11 @@
 
 ![Gateron G Pro 2.0 Yellow](https://dygma.com/cdn/shop/products/GateronProYellow_1100x.png?v=1667906298)
 
-|                     | Clarity | Force | Speed | Quietness | Travel | Smoothness | Stability | Crispness | Thockiness | Clackiness | Poppiness | RGB | Consistency | Overall |
-| ------------------- | ------- | ----- | ----- | --------- | ------ | ---------- | --------- | --------- | ---------- | ---------- | --------- | --- | ----------- | ------- |
-| average             | 0.0     | 5.0   | 5.0   | 5.0       | 10.0   | 8.0        | 7.0       | 8.0       | 7.0        | 6.0        | 6.0       | 9.0 |             | 8.0     |
-|                     |         |       |       |           |        |            |           |           |            |            |           |     |             |         |
-| unional (2024/2/17) | 0       | 5     | 5     | 5         | 10     | 8          | 7         | 8         | 7          | 6          | 6         | 9   |             | 8       |
+|                     | Sharp | Force | Speed | Quiet | Travel | Smoothness | Stability | Crispness | Thockiness | Clackiness | Poppiness | RGB | Consistency | Overall |
+| ------------------- | ----- | ----- | ----- | ----- | ------ | ---------- | --------- | --------- | ---------- | ---------- | --------- | --- | ----------- | ------- |
+| average             | 0.0   | 5.0   | 5.0   | 5.0   | 10.0   | 8.0        | 7.0       | 8.0       | 7.0        | 6.0        | 6.0       | 9.0 |             | 8.0     |
+|                     |       |       |       |       |        |            |           |           |            |            |           |     |             |         |
+| unional (2024/2/17) | 0     | 5     | 5     | 5     | 10     | 8          | 7         | 8         | 7          | 6          | 6         | 9   |             | 8       |
 
 ## Specification
 

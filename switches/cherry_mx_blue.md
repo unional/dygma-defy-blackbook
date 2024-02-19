@@ -2,11 +2,11 @@
 
 ![Cherry MX Blue](https://www.cherry-world.com/media/catalog/product/cache/661c0bae3bb54b88fbb1b415a9d390cb/m/x/mx1a-e1na_sideview4.jpg)
 
-|                             | Clarity | Force | Speed | Quietness | Travel | Smoothness | Stability | Crispness | Thockiness | Clackiness | Poppiness | RGB | Consistency | Overall |
-| --------------------------- | ------- | ----- | ----- | --------- | ------ | ---------- | --------- | --------- | ---------- | ---------- | --------- | --- | ----------- | ------- |
-| average                     |         |       |       |           |        |            |           |           |            |            |           |     |             |         |
-|                             |         |       |       |           |        |            |           |           |            |            |           |     |             |         |
-| First Reviewer (YYYY/mm/dd) |         |       |       |           |        |            |           |           |            |            |           |     |             |         |
+|                             | Sharp | Force | Speed | Quiet | Travel | Smoothness | Stability | Crispness | Thockiness | Clackiness | Poppiness | RGB | Consistency | Overall |
+| --------------------------- | ----- | ----- | ----- | ----- | ------ | ---------- | --------- | --------- | ---------- | ---------- | --------- | --- | ----------- | ------- |
+| average                     |       |       |       |       |        |            |           |           |            |            |           |     |             |         |
+|                             |       |       |       |       |        |            |           |           |            |            |           |     |             |         |
+| First Reviewer (YYYY/mm/dd) |       |       |       |       |        |            |           |           |            |            |           |     |             |         |
 
 ## Specification
 

@@ -2,11 +2,11 @@
 
 ![Kailh Speed Copper](https://novelkeys.com/cdn/shop/products/Kailh_Speed_Copper_1512x.jpg?v=1628272318)
 
-|                             | Clarity | Force | Speed | Quietness | Travel | Smoothness | Stability | Crispness | Thockiness | Clackiness | Poppiness | RGB | Consistency | Overall |
-| --------------------------- | ------- | ----- | ----- | --------- | ------ | ---------- | --------- | --------- | ---------- | ---------- | --------- | --- | ----------- | ------- |
-| average                     |         |       |       |           |        |            |           |           |            |            |           |     |             |         |
-|                             |         |       |       |           |        |            |           |           |            |            |           |     |             |         |
-| First Reviewer (YYYY/mm/dd) |         |       |       |           |        |            |           |           |            |            |           |     |             |         |
+|                             | Sharp | Force | Speed | Quiet | Travel | Smoothness | Stability | Crispness | Thockiness | Clackiness | Poppiness | RGB | Consistency | Overall |
+| --------------------------- | ----- | ----- | ----- | ----- | ------ | ---------- | --------- | --------- | ---------- | ---------- | --------- | --- | ----------- | ------- |
+| average                     |       |       |       |       |        |            |           |           |            |            |           |     |             |         |
+|                             |       |       |       |       |        |            |           |           |            |            |           |     |             |         |
+| First Reviewer (YYYY/mm/dd) |       |       |       |       |        |            |           |           |            |            |           |     |             |         |
 
 ## Specification
 
