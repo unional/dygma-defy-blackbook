@@ -26,6 +26,9 @@
 
 ## Reviews
 
+First Viewer (YYYY/mm/dd):
+your review here...
+
 ## Prices
 
 | Link                                                                                               | Price           | Unit Price | Status   | Date      |

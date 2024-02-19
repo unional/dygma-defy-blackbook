@@ -26,8 +26,12 @@
 
 ## Reviews
 
+First Viewer (YYYY/mm/dd):
+your review here...
+
 ## Prices
 
-| Link                                                                                               | Price           | Unit Price | Status   | Date      |
-| -------------------------------------------------------------------------------------------------- | --------------- | ---------- | -------- | --------- |
-| [Dygma with 8 Kailh Low Profile Brown](https://dygma.com/products/switches?variant=43658510369006) | $59.00/(62 + 8) |            | In stock | 2/17/2024 |
+| Link                                                                                                  | Price           | Unit Price | Status   | Date      |
+| ----------------------------------------------------------------------------------------------------- | --------------- | ---------- | -------- | --------- |
+| [Dygma with 8 Kailh Low Profile Brown](https://dygma.com/products/switches?variant=43658510369006)    | $59.00/(62 + 8) |            | In stock | 2024/2/17 |
+| [SwitchCaptain](https://www.switchcaptain.com/products/kailh-box-silent-brown?variant=35251801358487) | $51.00/70       | $0.72      | In stock | 2024/2/18 |

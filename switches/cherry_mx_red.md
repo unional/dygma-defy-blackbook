@@ -29,11 +29,10 @@
 unional (2024/2/17):
 The Cherry MX Red is a solid linear switch.
 It is not very smooth and even a bit scratchy.
-But the 45gf actuation force well nice on my hand.
+But the 45gf actuation force feel very nice on my finger.
 
 ## Prices
 
 | Link                                                                                               | Price           | Unit Price | Status   | Date      |
 | -------------------------------------------------------------------------------------------------- | --------------- | ---------- | -------- | --------- |
-| [Dygma with 8 Kailh Low Profile Brown](https://dygma.com/products/switches?variant=43661732675822) | $45.00/(62 + 8) |            | In stock | 2/18/2024 |
-| [Gateron](https://www.gateron.co/products/gateron-g-pro-2-0-switch-set?variant=40036010623065)     | $38.00/110      | $0.35      | Sold out | 2/17/2024 |
+| [Dygma with 8 Kailh Low Profile Red](https://dygma.com/products/switches?variant=43658510205166) | $69.00/(62 + 8) |            | In stock | 2/18/2024 |

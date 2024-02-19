@@ -1,12 +1,12 @@
-# [Your favorite switch]
+# Switch Name
 
-![[Your favorite switch]]([link to an image])
+![Switch Name](image link)
 
-|                                   | Clarity | Force | Speed | Quietness | Travel | Smoothness | Stability | Crispness | Thockiness | Clackiness | Poppiness | RGB | Consistency | Overall |
-| --------------------------------- | ------- | ----- | ----- | --------- | ------ | ---------- | --------- | --------- | ---------- | ---------- | --------- | --- | ----------- | ------- |
-| average                           |         |       |       |           |        |            |           |           |            |            |           |     |             |         |
-|                                   |         |       |       |           |        |            |           |           |            |            |           |     |             |         |
-| [reviewer] ([date in YYYY/mm/dd]) |         |       |       |           |        |            |           |           |            |            |           |     |             |         |
+|                             | Clarity | Force | Speed | Quietness | Travel | Smoothness | Stability | Crispness | Thockiness | Clackiness | Poppiness | RGB | Consistency | Overall |
+| --------------------------- | ------- | ----- | ----- | --------- | ------ | ---------- | --------- | --------- | ---------- | ---------- | --------- | --- | ----------- | ------- |
+| average                     |         |       |       |           |        |            |           |           |            |            |           |     |             |         |
+|                             |         |       |       |           |        |            |           |           |            |            |           |     |             |         |
+| First Reviewer (YYYY/mm/dd) |         |       |       |           |        |            |           |           |            |            |           |     |             |         |
 
 ## Specification
 
@@ -22,15 +22,15 @@
 | Silent       |     | Wobble Tolerance  |     |                         |     |
 | Factor Lube  |     |                   |     |                         |     |
 
-[Manufacturer Specification]([link to production specification])
+- [Manufacturer Specification](specification link)
 
 ## Reviews
 
-[reviewer] ([date in YYYY/mm/dd]):
-[your review here...]
+First Reviewer (YYYY/mm/dd):
+your review here...
 
 ## Prices
 
-| Link                             | Price              | Unit Price | Status                    | Date                 |
-| -------------------------------- | ------------------ | ---------- | ------------------------- | -------------------- |
-| [[website name]]([website link]) | [price]/[quantity] |            | [In stock / Out of stock] | [date in YYYY/mm/dd] |
+| Link                         | Price          | Unit Price | Status                    | Date       |
+| ---------------------------- | -------------- | ---------- | ------------------------- | ---------- |
+| [website name](website link) | price/quantity |            | [In stock / Out of stock] | YYYY/mm/dd |

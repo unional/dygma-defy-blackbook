@@ -27,15 +27,18 @@ and if you have your favorite, feel free to add it to the list.
 
 | Name                                                       | Clarity | Force | Speed | Quietness | Overall |
 | ---------------------------------------------------------- | ------- | ----- | ----- | --------- | ------- |
-| Cherry MX Brown                                            |         |       |       |           |         |
+| [Cherry MX Blue](./cherry_mx_blue.md)                      |         |       |       |           |         |
+| [Cherry MX Brown](./cherry_mx_brown.md)                    |         |       |       |           |         |
 | [Cherry MX Red](./cherry_mx_red.md)                        | 0.0     | 4.0   | 5.0   | 4.0       | 7.0     |
-| [Kailh Silent Brown](./kailh_silent_brown.md)              | 6.0     | 7.0   | 5.0   | 7.0       | 8.0     |
-| [Kailh Silent Pink](./kailh_silent_pink.md)                | 0.0     | 4.0   | 7.0   | 9.0       | 8.0     |
-| Kailh Speed Copper                                         |         |       |       |           |         |
 | [Gamakay Pegasus](./gamakay_pegasus.md)                    |         |       |       |           |         |
 | [Gamakay Phoenix](./gamakay_phoenix.md)                    |         |       |       |           |         |
 | [Gateron G Pro 2.0 Yellow+](./gateron_g_pro_2.0_yellow.md) | 0.0     | 5.0   | 5.0   | 5.0       | 8.0     |
 | Gazzew U4                                                  |         |       |       |           |         |
+| [Kailh Silent Brown](./kailh_silent_brown.md)              | 6.0     | 7.0   | 5.0   | 7.0       | 8.0     |
+| [Kailh Silent Pink](./kailh_silent_pink.md)                | 0.0     | 4.0   | 7.0   | 9.0       | 8.0     |
+| [Kailh Speed Bronze](./kailh_speed_bronze.md)              |         |       |       |           |         |
+| [Kailh Speed Copper](./kailh_speed_copper.md)              |         |       |       |           |         |
+| [Kailh Speed Silver](./kailh_speed_silver.md)              |         |       |       |           |         |
 | [Wuque WS Jade](./wuque_ws_jade.md)                        |         |       |       |           |         |
 
 [defy]: https://dygma.com/pages/defy
