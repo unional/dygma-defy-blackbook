@@ -13,7 +13,7 @@ devDependencies:
     version: 1.1.0
   '@types/node':
     specifier: ^20.11.19
-    version: 20.11.19
+    version: 20.11.30
 
 packages:
 
@@ -109,8 +109,8 @@ packages:
     resolution: {integrity: sha512-HCPPUVoX/eemzfjqzZqwudZOOohIcsgiXi/3fs1J98fmepb5yHM6gyx+ijfLYvDohDjmNEmqTPV6WfAe+BTwaA==}
     dev: true
 
-  /@types/node@20.11.19:
-    resolution: {integrity: sha512-7xMnVEcZFu0DikYjWOlRq7NTPETrm7teqUT2WkQjrTIkEgUyyGdWsj/Zg8bEJt5TNklzbPD1X3fqfsHw3SpapQ==}
+  /@types/node@20.11.30:
+    resolution: {integrity: sha512-dHM6ZxwlmuZaRmUPfv1p+KrdD1Dci04FbdEm/9wEMouFqxYoFl5aMkt0VMAUtYRQDyYvD41WJLukhq/ha3YuTw==}
     dependencies:
       undici-types: 5.26.5
     dev: true
