@@ -1,0 +1,817 @@
+{
+  "device": {
+    "vendor": "Dygma",
+    "product": "Defy",
+    "keyboardType": "wireless",
+    "displayName": "Dygma Defy wireless",
+    "urls": [
+      {
+        "name": "Homepage",
+        "url": "https://www.dygma.com/defy/"
+      }
+    ]
+  },
+  "language": "en-US",
+  "layerNames": [
+    {
+      "id": 0,
+      "name": "Base (colemak)"
+    },
+    {
+      "id": 1,
+      "name": "Num"
+    },
+    {
+      "id": 2,
+      "name": "Sym, Nav, Mouse"
+    },
+    {
+      "id": 3,
+      "name": "Fun"
+    },
+    {
+      "id": 4,
+      "name": "Tap"
+    },
+    {
+      "id": 5,
+      "name": "L6"
+    },
+    {
+      "id": 6,
+      "name": "L7"
+    },
+    {
+      "id": 7,
+      "name": "L8"
+    },
+    {
+      "id": 8,
+      "name": "L9"
+    },
+    {
+      "id": 9,
+      "name": "qwerty"
+    }
+  ],
+  "keymap": [
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 23664,
+      "label": {
+        "key": null,
+        "ref": null,
+        "props": {},
+        "_owner": null
+      },
+      "extraLabel": "Display",
+      "verbose": "Bright -"
+    },
+    {
+      "keyCode": 23663,
+      "label": {
+        "key": null,
+        "ref": null,
+        "props": {},
+        "_owner": null
+      },
+      "extraLabel": "Display",
+      "verbose": "Bright +"
+    },
+    {
+      "keyCode": 17154,
+      "label": {
+        "key": null,
+        "ref": null,
+        "props": {},
+        "_owner": null
+      },
+      "extraLabel": "LED",
+      "verbose": "Toggle"
+    },
+    {
+      "keyCode": 17153,
+      "label": {
+        "key": null,
+        "ref": null,
+        "props": {},
+        "_owner": null
+      },
+      "extraLabel": "LED",
+      "verbose": "Previous"
+    },
+    {
+      "keyCode": 17152,
+      "label": {
+        "key": null,
+        "ref": null,
+        "props": {},
+        "_owner": null
+      },
+      "extraLabel": "LED",
+      "verbose": "Next"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 22710,
+      "label": {
+        "key": null,
+        "ref": null,
+        "props": {},
+        "_owner": null
+      },
+      "extraLabel": "",
+      "verbose": "Prev. track"
+    },
+    {
+      "keyCode": 22733,
+      "label": {
+        "key": null,
+        "ref": null,
+        "props": {},
+        "_owner": null
+      },
+      "extraLabel": "",
+      "verbose": "Play / pause"
+    },
+    {
+      "keyCode": 22709,
+      "label": {
+        "key": null,
+        "ref": null,
+        "props": {},
+        "_owner": null
+      },
+      "extraLabel": "",
+      "verbose": "Next track"
+    },
+    {
+      "keyCode": 19682,
+      "label": {
+        "key": null,
+        "ref": null,
+        "props": {},
+        "_owner": null
+      },
+      "extraLabel": "",
+      "verbose": "Mute"
+    },
+    {
+      "keyCode": 23786,
+      "label": {
+        "key": null,
+        "ref": null,
+        "props": {},
+        "_owner": null
+      },
+      "extraLabel": "",
+      "verbose": "Volume down"
+    },
+    {
+      "keyCode": 23785,
+      "label": {
+        "key": null,
+        "ref": null,
+        "props": {},
+        "_owner": null
+      },
+      "extraLabel": "",
+      "verbose": "Volume up"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 58,
+      "label": "F1"
+    },
+    {
+      "keyCode": 59,
+      "label": "F2"
+    },
+    {
+      "keyCode": 60,
+      "label": "F3"
+    },
+    {
+      "keyCode": 61,
+      "label": "F4"
+    },
+    {
+      "keyCode": 62,
+      "label": "F5"
+    },
+    {
+      "keyCode": 20866,
+      "label": {
+        "key": null,
+        "ref": null,
+        "props": {},
+        "_owner": null
+      },
+      "verbose": "Sleep"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 20865,
+      "label": {
+        "key": null,
+        "ref": null,
+        "props": {},
+        "_owner": null
+      },
+      "verbose": "Shut Down"
+    },
+    {
+      "keyCode": 58,
+      "label": "F1"
+    },
+    {
+      "keyCode": 59,
+      "label": "F2"
+    },
+    {
+      "keyCode": 60,
+      "label": "F3"
+    },
+    {
+      "keyCode": 61,
+      "label": "F4"
+    },
+    {
+      "keyCode": 62,
+      "label": "F5"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 63,
+      "label": "F6"
+    },
+    {
+      "keyCode": 64,
+      "label": "F7"
+    },
+    {
+      "keyCode": 65,
+      "label": "F8"
+    },
+    {
+      "keyCode": 66,
+      "label": "F9"
+    },
+    {
+      "keyCode": 67,
+      "label": "F10"
+    },
+    {
+      "keyCode": 54109,
+      "label": "PAIR.",
+      "extraLabel": "BLUET."
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 54108,
+      "label": "LEVEL",
+      "extraLabel": "BATT."
+    },
+    {
+      "keyCode": 63,
+      "label": "F6"
+    },
+    {
+      "keyCode": 64,
+      "label": "F7"
+    },
+    {
+      "keyCode": 65,
+      "label": "F8"
+    },
+    {
+      "keyCode": 66,
+      "label": "F9"
+    },
+    {
+      "keyCode": 67,
+      "label": "F10"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 50009,
+      "label": "PAUSE",
+      "extraLabel": "OS/"
+    },
+    {
+      "keyCode": 49752,
+      "label": "SCROLL LCK",
+      "extraLabel": "ALT/"
+    },
+    {
+      "keyCode": 49495,
+      "label": "PRINT SCRN",
+      "extraLabel": "SHIFT/"
+    },
+    {
+      "keyCode": 49226,
+      "label": "⇪",
+      "extraLabel": "CTRL/"
+    },
+    {
+      "keyCode": 50010,
+      "label": "INSERT",
+      "extraLabel": "OS/"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 50010,
+      "label": "INSERT",
+      "extraLabel": "OS/"
+    },
+    {
+      "keyCode": 49226,
+      "label": "⇪",
+      "extraLabel": "CTRL/"
+    },
+    {
+      "keyCode": 49495,
+      "label": "PRINT SCRN",
+      "extraLabel": "SHIFT/"
+    },
+    {
+      "keyCode": 49752,
+      "label": "SCROLL LCK",
+      "extraLabel": "ALT/"
+    },
+    {
+      "keyCode": 50009,
+      "label": "PAUSE",
+      "extraLabel": "OS/"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 224,
+      "label": "CTRL",
+      "extraLabel": "LEFT",
+      "verbose": "Left Control"
+    },
+    {
+      "keyCode": 68,
+      "label": "F11"
+    },
+    {
+      "keyCode": 69,
+      "label": "F12"
+    },
+    {
+      "keyCode": 17492,
+      "label": "1",
+      "extraLabel": "LOCK"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 68,
+      "label": "F11"
+    },
+    {
+      "keyCode": 69,
+      "label": "F12"
+    },
+    {
+      "keyCode": 101,
+      "label": "MENU"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    }
+  ],
+  "colormap": [
+    13,
+    3,
+    0,
+    4,
+    3,
+    0,
+    12,
+    3,
+    12,
+    12,
+    12,
+    12,
+    12,
+    13,
+    10,
+    12,
+    12,
+    12,
+    12,
+    12,
+    5,
+    7,
+    9,
+    4,
+    10,
+    12,
+    5,
+    10,
+    11,
+    11,
+    2,
+    7,
+    4,
+    13,
+    13,
+    12,
+    8,
+    10,
+    9,
+    7,
+    5,
+    4,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    11,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    1,
+    12,
+    9,
+    4,
+    10,
+    12,
+    5,
+    3,
+    13,
+    11,
+    11,
+    7,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    11,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    11,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    7
+  ],
+  "palette": [
+    {
+      "r": 255,
+      "g": 196,
+      "b": 0,
+      "rgb": "rgb(255, 196, 0)"
+    },
+    {
+      "r": 0,
+      "g": 254,
+      "b": 24,
+      "rgb": "rgb(0, 254, 24)"
+    },
+    {
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "rgb": "rgb(255, 255, 255)"
+    },
+    {
+      "r": 231,
+      "g": 255,
+      "b": 0,
+      "rgb": "rgb(231, 255, 0)"
+    },
+    {
+      "r": 0,
+      "g": 254,
+      "b": 234,
+      "rgb": "rgb(0, 254, 234)"
+    },
+    {
+      "r": 0,
+      "g": 52,
+      "b": 255,
+      "rgb": "rgb(0, 52, 255)"
+    },
+    {
+      "r": 255,
+      "g": 0,
+      "b": 232,
+      "rgb": "rgb(255, 0, 232)"
+    },
+    {
+      "r": 87,
+      "g": 164,
+      "b": 255,
+      "rgb": "rgb(87, 164, 255)"
+    },
+    {
+      "r": 144,
+      "g": 19,
+      "b": 254,
+      "rgb": "rgb(144, 19, 254)"
+    },
+    {
+      "r": 239,
+      "g": 219,
+      "b": 255,
+      "rgb": "rgb(239, 219, 255)"
+    },
+    {
+      "r": 214,
+      "g": 129,
+      "b": 255,
+      "rgb": "rgb(214, 129, 255)"
+    },
+    {
+      "r": 255,
+      "g": 9,
+      "b": 0,
+      "rgb": "rgb(255, 9, 0)"
+    },
+    {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "rgb": "rgb(0, 0, 0)"
+    },
+    {
+      "r": 255,
+      "g": 123,
+      "b": 123,
+      "rgb": "rgb(255, 123, 123)"
+    },
+    {
+      "r": 125,
+      "g": 239,
+      "b": 151,
+      "rgb": "rgb(125, 239, 151)"
+    },
+    {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "rgb": "rgb(0, 0, 0)"
+    }
+  ]
+}
