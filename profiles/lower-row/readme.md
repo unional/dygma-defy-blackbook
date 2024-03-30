@@ -39,7 +39,7 @@ but currently (as of firmware 1.2.5-beta) there are some limitation preventing t
 
 The first row (`ESC-1...5` and `6...0-BACKSPACE`) are for convenience and familiarity.
 The `super 3`, `super 4`, take screenshots when tap+hold and 2tap+hold,
-while `super 5` opens a split terminal in vscode.
+while `super 5` opens a split terminal in VS Code.
 
 The `TAB` in the second row is also for familiarity, but it is seldom used.
 It might be removed or reassigned in the future.

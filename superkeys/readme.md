@@ -1,6 +1,6 @@
 # Superkeys
 
-The [profiles](../profiles/readme.md) utilizes some [superkeys].
+The [profiles](../profiles/readme.md) utilize some [superkeys].
 
 They typically follow certain forms, and you can learn more about them here.
 

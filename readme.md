@@ -18,7 +18,7 @@ and what you can to or buy to make the time you spend with your [Dygma Defy][def
 This blackbook is only made possible by all the people I know and learn along the way.
 
 My journey to the mechanical keyboard world is just getting started.
-There are still many more things to learn and my intent is to share them with you in this blackbook along the way.
+There are still many more things to learn, and my intent is to share them with you in this blackbook along the way.
 If there are anything you would like to see here, feel free to [post a request](https://github.com/unional/dygma-defy-layers/issues). And as always, any direct contributions are welcome too.
 
 Also, I would highly recommend joining the [Dygma Discord](https://discord.com/channels/895297925578637362/900274232473317386) to discuss directly with the veterans over there.

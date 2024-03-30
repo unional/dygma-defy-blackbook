@@ -1,21 +1,21 @@
 {
-  "name": "dygma-defy-blackbook",
-  "version": "1.0.0",
-  "private": true,
-  "description": "",
-  "keywords": [],
-  "license": "MIT",
-  "author": {
-    "name": "Homa Wong (unional)",
-    "email": "homawong@gmail.com"
-  },
+	"name": "dygma-defy-blackbook",
+	"version": "1.0.0",
+	"private": true,
+	"description": "",
+	"keywords": [],
+	"license": "MIT",
+	"author": {
+		"name": "Homa Wong (unional)",
+		"email": "homawong@gmail.com"
+	},
 	"scripts": {
 		"check": "biome check .",
 		"lint": "biome lint ."
 	},
-  "devDependencies": {
-    "@biomejs/biome": "^1.5.3",
-    "@repobuddy/biome": "^1.1.0",
-    "@types/node": "^20.11.19"
-  }
+	"devDependencies": {
+		"@biomejs/biome": "^1.5.3",
+		"@repobuddy/biome": "^1.1.0",
+		"@types/node": "^20.11.19"
+	}
 }
