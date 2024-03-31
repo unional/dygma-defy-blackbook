@@ -10,7 +10,7 @@ devDependencies:
     version: 1.6.3
   '@repobuddy/biome':
     specifier: ^1.1.0
-    version: 1.1.0
+    version: 1.2.1
   '@types/node':
     specifier: ^20.11.19
     version: 20.11.30
@@ -105,8 +105,8 @@ packages:
     dev: true
     optional: true
 
-  /@repobuddy/biome@1.1.0:
-    resolution: {integrity: sha512-HCPPUVoX/eemzfjqzZqwudZOOohIcsgiXi/3fs1J98fmepb5yHM6gyx+ijfLYvDohDjmNEmqTPV6WfAe+BTwaA==}
+  /@repobuddy/biome@1.2.1:
+    resolution: {integrity: sha512-MsFT3rex8sn2Qhz33+MjEF5Qwa/oNY8cP+ib8HK/PzBfgRYeQqvfpHDsMjy5YhKDVXItqpOQrjb3zhdHb5AJAQ==}
     dev: true
 
   /@types/node@20.11.30:
