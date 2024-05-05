@@ -52,5 +52,8 @@
 		"thocky",
 		"Wuque",
 		"Yasaka"
-	]
+	],
+	"material-icon-theme.folders.associations": {
+		"blogs": "content",
+	}
 }
