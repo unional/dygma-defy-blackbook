@@ -26,7 +26,7 @@
 		},
 		"editor.unicodeHighlight.ambiguousCharacters": false,
 		"editor.unicodeHighlight.invisibleCharacters": false,
-		"editor.wordWrap": "on",
+		"editor.wordWrap": "on"
 	},
 	"cSpell.words": [
 		"Boba",
