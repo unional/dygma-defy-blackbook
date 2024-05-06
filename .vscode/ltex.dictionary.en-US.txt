@@ -5,3 +5,7 @@ Superkeys
 superkeys
 num
 blackbook
+Colemak-DH
+Ortholinear
+Colemak
+Epistory
