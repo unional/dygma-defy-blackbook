@@ -25,7 +25,7 @@ Not for speed, but for comfort.
 
 So after some research, I decided to learn [Colemak-DH].
 
-(recently I start learning [Engram](https://engram.dev/), but that's a different topic).
+(recently I start learning [Engram](https://engram.dev/), but that's a different topic)
 
 To me, it takes me about 2 months to get comfortable with it and switching to it as my daily driver,
 and another 1 to 2 months to be able to type decently at around 50 wpm.
