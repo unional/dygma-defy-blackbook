@@ -132,31 +132,31 @@ It is tempting to go fast, especially when you see your dismal wpm at the end of
 
 Don't give in to that temptation.
 
-## 3 Phrases of learning a new keyboard layout
+## 3 Phases of learning a new keyboard layout
 
-I notice 3 distinctive phrases in my learning journey.
+I notice 3 distinctive phases in my learning journey.
 
-Identifying which phrase you are in can help you gauge how far you are in your learning journey.
+Identifying which phase you are in can help you gauge how far you are in your learning journey.
 
-The first phrase is learning the keys.
+The first phase is learning the keys.
 
-At this phrase, I look at the words by the characters.
+At this phase, I look at the words by the characters.
 I try to figure out where the key is on the keyboard,
 and maybe which finger I should be using to press it.
 
-For me, my wpm is around 20-25 at this phrase.
+For me, my wpm is around 20-25 at this phase.
 
-The second phrase is typing the characters.
+The second phase is typing the characters.
 
-At this phrase, I don't have to think about the location of the keys.
+At this phase, I don't have to think about the location of the keys.
 I can read the character one by one, and my finger will type the right key.
 
-Once I get to this phrase, my wpm jumps to around 35 wpm.
+Once I get to this phase, my wpm jumps to around 35 wpm.
 And my brain start relaxing as it doesn't need to locate the keys and validate the right key is being pressed.
 
-The third phrase is typing by the words.
+The third phase is typing by the words.
 
-This is the phrase I become fluent with the layout.
+This is the phase I become fluent with the layout.
 I can use it like normal, even though it can be still slower than what I was with the QWERTY layout.
 
 I still struggle with it from time to time, especially when it comes to symbols.
