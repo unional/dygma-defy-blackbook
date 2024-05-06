@@ -25,7 +25,7 @@ Not for speed, but for comfort.
 
 So after some research, I decided to learn [Colemak-DH].
 
-(recently I start learning [Engram](https://engram.dev/), but that's a different topic)
+(recently I start learning [Engram], but that's a different topic)
 
 To me, it takes me about 2 months to get comfortable with it and switching to it as my daily driver,
 and another 1 to 2 months to be able to type decently at around 50 wpm.
@@ -96,14 +96,14 @@ There are many tools you can use to learn a new layout.
 
 I personally use two websites:
 
-- <keybr.com>: for a guided practice to learn the keys
-- <monkeytype.com>: to improve my typing speed and accuracy after learning the keys
+- [keybr.com]: for a guided practice to learn the keys
+- [monkeytype.com]: to improve my typing speed and accuracy after learning the keys
 
-There are many other tools out there, and <monkeytype.com> can also be used to learn keys and vice versa,
+There are many other tools out there, and [monkeytype.com] can also be used to learn keys and vice versa,
 but I personally find just these two websites works fine for me.
 
 If you really want to play around and have some fun,
-<play.typeracer.com>, Epistory - Typing Chronicles,
+[play.typeracer.com], Epistory - Typing Chronicles,
 or The Typing of the Dead: Overkill would be nice addition too.
 
 ## Tips and Tricks
@@ -181,5 +181,9 @@ Scratch that, I'd recommend you to do it.
 Commit to it and follow through.
 You will be glad you made the jump.
 
-[Dygma Defy]: https://www.dygma.com/defy
 [Colemak-DH]: https://colemakmods.github.io/mod-dh/
+[Dygma Defy]: https://www.dygma.com/defy
+[keybr.com]: https://www.keybr.com/
+[monkeytype.com]: https://monkeytype.com/
+[play.typeracer.com]: https://play.typeracer.com/
+[Engram]: https://engram.dev/
