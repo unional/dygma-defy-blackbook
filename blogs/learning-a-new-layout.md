@@ -122,7 +122,7 @@ The only difference is the mapping within your head.
 
 So be prepared that it will take time.
 
-As for tips and tricks, there is one that I can share: take it show and focus on accuracy.
+As for tips and tricks, there is one that I can share: take it slow and focus on accuracy.
 
 Since you are training your unconscious mind when you learn a new layout,
 every wrong keystroke will confuse and slow down your unconscious mind to rewire the neurons correctly.
