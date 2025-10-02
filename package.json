@@ -14,7 +14,7 @@
 		"lint": "biome lint ."
 	},
 	"devDependencies": {
-		"@biomejs/biome": "^1.7.2",
+		"@biomejs/biome": "^2.0.0",
 		"@repobuddy/biome": "^1.5.1",
 		"@types/node": "^20.11.19"
 	},
