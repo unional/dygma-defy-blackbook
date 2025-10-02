@@ -15,7 +15,7 @@
 	},
 	"devDependencies": {
 		"@biomejs/biome": "^2.0.0",
-		"@repobuddy/biome": "^1.5.1",
+		"@repobuddy/biome": "^2.0.0",
 		"@types/node": "^20.11.19"
 	},
 	"packageManager": "pnpm@10.18.0"
