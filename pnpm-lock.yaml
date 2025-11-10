@@ -13,7 +13,7 @@ importers:
         version: 2.3.4
       '@repobuddy/biome':
         specifier: ^2.0.0
-        version: 2.0.1(@biomejs/biome@2.3.4)
+        version: 2.1.0(@biomejs/biome@2.3.4)
       '@types/node':
         specifier: ^20.11.19
         version: 20.11.30
@@ -73,10 +73,10 @@ packages:
     cpu: [x64]
     os: [win32]
 
-  '@repobuddy/biome@2.0.1':
-    resolution: {integrity: sha512-9IfrOWqSVxNGELrq+LxYK1sBA3/ZQzbP1csruaGyaYmA5MPABj25/TiIvU8BnbdmDJQ+DTgWYoelIXSATXZpyg==}
+  '@repobuddy/biome@2.1.0':
+    resolution: {integrity: sha512-fQw3U0JgZEJTKJ9RmJ9/4qTsNLtrpYp9UkHfNuvMqwyDgGFenyFXxT7QGRNhF8gtOeMbgAvLJwFeAZMjwBS4uQ==}
     peerDependencies:
-      '@biomejs/biome': '>= 1.8.0'
+      '@biomejs/biome': '>= 2'
 
   '@types/node@20.11.30':
     resolution: {integrity: sha512-dHM6ZxwlmuZaRmUPfv1p+KrdD1Dci04FbdEm/9wEMouFqxYoFl5aMkt0VMAUtYRQDyYvD41WJLukhq/ha3YuTw==}
@@ -121,7 +121,7 @@ snapshots:
   '@biomejs/cli-win32-x64@2.3.4':
     optional: true
 
-  '@repobuddy/biome@2.0.1(@biomejs/biome@2.3.4)':
+  '@repobuddy/biome@2.1.0(@biomejs/biome@2.3.4)':
     dependencies:
       '@biomejs/biome': 2.3.4
 
