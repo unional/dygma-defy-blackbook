@@ -15,8 +15,8 @@ importers:
         specifier: ^2.0.0
         version: 2.3.1(@biomejs/biome@2.4.2)
       '@types/node':
-        specifier: ^20.11.19
-        version: 20.11.30
+        specifier: ^24.0.0
+        version: 24.10.13
 
 packages:
 
@@ -82,11 +82,11 @@ packages:
     peerDependencies:
       '@biomejs/biome': '>= 2'
 
-  '@types/node@20.11.30':
-    resolution: {integrity: sha512-dHM6ZxwlmuZaRmUPfv1p+KrdD1Dci04FbdEm/9wEMouFqxYoFl5aMkt0VMAUtYRQDyYvD41WJLukhq/ha3YuTw==}
+  '@types/node@24.10.13':
+    resolution: {integrity: sha512-oH72nZRfDv9lADUBSo104Aq7gPHpQZc4BTx38r9xf9pg5LfP6EzSyH2n7qFmmxRQXh7YlUXODcYsg6PuTDSxGg==}
 
-  undici-types@5.26.5:
-    resolution: {integrity: sha512-JlCMO+ehdEIKqlFxk6IfVoAUVmgz7cU7zD/h9XZ0qzeosSHmUJVOzSQvvYSYWXkFXC+IfLKSIffhv0sVZup6pA==}
+  undici-types@7.16.0:
+    resolution: {integrity: sha512-Zz+aZWSj8LE6zoxD+xrjh4VfkIG8Ya6LvYkZqtUQGJPZjYl53ypCaUwWqo7eI0x66KBGeRo+mlBEkMSeSZ38Nw==}
 
 snapshots:
 
@@ -129,8 +129,8 @@ snapshots:
     dependencies:
       '@biomejs/biome': 2.4.2
 
-  '@types/node@20.11.30':
+  '@types/node@24.10.13':
     dependencies:
-      undici-types: 5.26.5
+      undici-types: 7.16.0
 
-  undici-types@5.26.5: {}
+  undici-types@7.16.0: {}
