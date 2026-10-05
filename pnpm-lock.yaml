@@ -171,7 +171,7 @@ importers:
         version: 2.5.11
       '@repobuddy/biome':
         specifier: ^2.0.0
-        version: 2.3.1(@biomejs/biome@2.5.11)
+        version: 2.5.1(@biomejs/biome@2.5.11)
       '@types/node':
         specifier: ^24.0.0
         version: 24.19.0
@@ -235,8 +235,8 @@ packages:
     cpu: [x64]
     os: [win32]
 
-  '@repobuddy/biome@2.3.1':
-    resolution: {integrity: sha512-dFxQSl+lYZ5Wc9TVUxrSwze9vwC6IBpg4zcbxJkLiZPPnYLX95Zvp9zC+ChPRmc2QpyVzqH4eGnxKzHaVZ1A7Q==}
+  '@repobuddy/biome@2.5.1':
+    resolution: {integrity: sha512-sdNvV6T5PTFPD1CrpiByf92Zm4nsvoAlBObx1x74LzKPOkaZ0rB7AAEBXMUZgjLYBoc2HGDXjx7qKxiIOn37Ww==}
     peerDependencies:
       '@biomejs/biome': '>= 2'
 
@@ -283,7 +283,7 @@ snapshots:
   '@biomejs/cli-win32-x64@2.5.11':
     optional: true
 
-  '@repobuddy/biome@2.3.1(@biomejs/biome@2.5.11)':
+  '@repobuddy/biome@2.5.1(@biomejs/biome@2.5.11)':
     dependencies:
       '@biomejs/biome': 2.5.11
 
